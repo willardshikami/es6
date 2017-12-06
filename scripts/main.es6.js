@@ -42,4 +42,7 @@ class StickyNotesApp{
   toggleButton() {
 
   }
+ 
 }
+
+document.registerElement('sticky-note', stickyNote);
